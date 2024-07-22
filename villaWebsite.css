@@ -1,0 +1,229 @@
+.navbar{
+    margin: 0px;
+    z-index: 99;
+}
+.navbar h2{
+    margin-left: 80px;
+}
+a:hover{
+    color: orangered !important;
+}
+.app{
+    font-size: 30px;
+   
+}
+.app i{
+    color:white;
+    background-color: #342727;
+    border-radius: 5PX;
+}
+.app i:hover{
+    color: white;
+    background-color: orangered;
+
+}
+img{
+    height: 100vh;
+}
+.box1{
+    height: 70vh;
+}
+.box2{
+    height: 80vh;
+    border: 25px solid white;
+}
+.box2 h5{
+    color: orangered;
+}
+.blanck{
+    height: 50px;
+}
+.box3{
+    height: 70vh;
+    padding: 0px 0px ;
+    box-shadow: 0px 0px 5px  black;
+    border-radius: 10px;
+    border: 25px solid white;
+}
+.box1 img{
+    width: 100%;
+    height:70vh ;
+}
+.box1 h5{
+    color: orangered;
+}
+.box1 h1{
+    font-size: 50px;
+}
+.icons{
+    width: 80%;
+    height:15vh;
+    border: none;
+    border-bottom: 1px solid black;
+    display: flex;
+   align-items: center;
+   align-self: flex-end;
+}
+.icons4{
+    width: 80%;
+    height:15vh;
+    border: none;
+    display: flex;
+   align-items: center;
+   align-self: flex-end;
+}
+ .icons img{
+    width: 100%;
+    height: 10vh;
+ }
+ .icons4 img{
+    width: 100%;
+    height: 10vh;
+ }
+ .discription{
+    position: relative;
+    left: 40px;
+ }
+ .btn{
+    color: red;
+    border: none;
+    text-decoration: none;
+ }
+ .btn:hover{
+    color:orangered;
+    box-shadow: none;
+    text-decoration: none;
+ }
+ .name{
+    height: 10vh ;
+}
+.name h4{
+    color: orangered;
+}
+.video img{
+    width: 100%;
+    height: 55vh;
+    border-radius:15px ;
+}
+.counter{
+    height:14vh;
+    border-radius: 10px !important;
+    background-color: rgb(252, 216, 206);
+}
+.counter p{
+    font-weight: 600;
+}
+.counter h1{
+    color: orangered;
+}
+.main{
+    border: 15px solid white;
+    background-color: whitesmoke;
+}
+.item img{
+    width: 100%;
+    height: 30vh;
+    border-radius: 10px;
+}
+.Detail{
+    margin-top: 120px;
+}
+.section-heading h5{
+        color: orangered;
+        font-weight: 700;
+        text-transform: uppercase;
+}
+.category{
+    background-color: rgb(252, 216, 206);
+}
+.item h3{
+    color: orangered !important;
+}
+.item h4{
+    font-weight: 700;
+}
+.item ul{
+    list-style-type: none;
+}
+.main-button a{
+    background-color:#000;
+    color: white;
+    text-decoration: none;
+    padding: 8px 18px !important;
+    border-radius: 20px;
+}
+.main-button a:hover{
+    background-color: orangered;
+    color: white !important;
+}
+.foot{
+    height: 15vh;
+}
+.foot p{
+    color: white;
+
+    
+}
+.foot b{
+    color: orangered;
+    font-weight: 800;
+    font-size: 20px;
+}
+.conct{
+    color: orangered;
+    text-transform: uppercase;
+
+}
+.items{
+    box-shadow: 0px 0px 5px 0px black;
+    height: 15vh;
+}
+.conct h5{
+    font-weight: 700 !important;
+}
+.items a{
+    color: #000;
+    text-decoration: none;
+}
+.section-heading h6{
+    color: orangered;
+}
+.email img{
+    height: 8vh;
+}
+.phone img{
+    height: 8vh;
+}
+.maps{
+    border: 10px solid white;
+}
+.froms{
+    border: 10px solid white;
+    box-shadow: 0px 0px 5px 0px black;
+    border-radius: 10px;
+}
+.froms input{
+    padding: 6px 120px;
+    border-radius: 20px;
+    background-color: whitesmoke;
+    border: none;
+}
+.froms textarea{
+    padding: 40px 140px;
+    border: none;
+    border-radius: 15px;
+    background-color: whitesmoke;
+
+}
+.froms button{
+    border-radius: 20px;
+    padding: 8px 20px ;
+    background-color: #000;
+    color: white;
+    border: none;
+    margin-top: 40px;
+}
+.froms button:hover{
+    background-color: orangered;
+    color: white;
+}
